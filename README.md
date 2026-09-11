@@ -1,0 +1,2 @@
+# 20260911_TheoryDevelopment_LearningArchitecture_ASS1
+The development of my eductaional and scientific theory
