@@ -1,0 +1,8 @@
+Caption: Android Notification history screen showing Signal, system, ChatGPT, Google Play services, and Claude notifications.
+Source: mobile app screenshot
+PhotoCategory: screenshot
+Summary: This is a dark-mode Android Notification history screen with stacked notification cards and timestamps. Visible notifications include Signal checking for messages, Android System battery saver, ChatGPT messages titled “Resynthesize Rebuild Manual,” Google Play services finding offline devices, Claude responding, and Google Play Protect running checks. The screen has a back arrow, app icons, bold notification titles, and gray preview text.
+Topic: Android notifications
+Subtopic: Notification history
+Query: Android notification history ChatGPT Resynthesize Rebuild Manual
+OCR: Notification history; Signal — Checking for messages...; Android System — Battery Saver is on; ChatGPT — Resynthesize Rebuild Manual; Google Play services — Find your offline devices; Claude responded; Google Play Protect service — Running checks on apps

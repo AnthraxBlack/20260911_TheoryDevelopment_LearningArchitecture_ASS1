@@ -1,0 +1,497 @@
+{
+  "generated_at": "2026-09-11",
+  "audit_report_md_sha256": "d52445a3e23f9fcf8e140e8786437c8a8ba2e71aac0ad0e6cd3e01ffc41e7183",
+  "current_conversation_file_count": 52,
+  "recovered_library_file_count": 2,
+  "inventory": [
+    {
+      "source": "current_conversation",
+      "name": "1000002158.png",
+      "size_bytes": 127882,
+      "sha256": "72d44fb8b7351135effb908a642056ad3ae55696a6532e9d37d4658bcd57ee3c",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_AI_ASSISTED_SCIENTIFIC_REASONING_METHOD_CONCEPT_DRAFT.md",
+      "size_bytes": 18438,
+      "sha256": "1d8057ca9c5fbd59d7119c7ce419987fe9f4e6d9aeeb6c3034eab572c0494eb5",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_AI_ASSISTED_SCIENTIFIC_REASONING_METHOD_CONCEPT_DRAFT.md.sha256",
+      "size_bytes": 164,
+      "sha256": "2f5d7d02ce8e2a514311b9a5d7448b23dc4488a165773bb5698101c762d8c3ac",
+      "type": ".md.sha256"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_AI_ASSISTED_SCIENTIFIC_REASONING_METHOD_CONCEPT_DRAFT.pdf",
+      "size_bytes": 87554,
+      "sha256": "bd645ef4bda953e8be8b2290089a46daae52da37d671375a6afd86b00c682d5c",
+      "type": ".pdf"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_LOW_IDENTIFIABILITY_PROVENANCE_KEY_CONCEPT.md",
+      "size_bytes": 7294,
+      "sha256": "1051d7d9fb269bc1bc84acadd667664369e91d3834f92da895e7202d3cebd393",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_LOW_IDENTIFIABILITY_PROVENANCE_KEY_CONCEPT.md.sha256",
+      "size_bytes": 121,
+      "sha256": "e023699e2b34b032b1bc39c698e0f7c7b35466c7df9b1cbb3189238d281eaa53",
+      "type": ".md.sha256"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_LOW_IDENTIFIABILITY_PROVENANCE_KEY_CONCEPT.pdf",
+      "size_bytes": 34961,
+      "sha256": "852f0126afc95c02b22655f68c7b1a9fcc44823209aec0ec98c66c49dcf98063",
+      "type": ".pdf"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_LOW_IDENTIFIABILITY_PROVENANCE_KEY_CONCEPT_2.md",
+      "size_bytes": 7294,
+      "sha256": "1051d7d9fb269bc1bc84acadd667664369e91d3834f92da895e7202d3cebd393",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_LOW_IDENTIFIABILITY_PROVENANCE_KEY_CONCEPT_2.pdf",
+      "size_bytes": 34961,
+      "sha256": "1171d44933cb8b8c755990c2a8e73e52ffc810daf6e1a3b6c31f43af7b6534f3",
+      "type": ".pdf"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_MILLENNIUM_AI_ARGUMENT_DEVELOPMENT_PROVENANCE.md",
+      "size_bytes": 21173,
+      "sha256": "f790cb9222cd60c80fdd667c3f4693bde6bf97dde65039c83273c8f3dd4f2bff",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_MILLENNIUM_AI_SCIENTIFIC_HUMILITY_VERSION_HISTORY.md",
+      "size_bytes": 13176,
+      "sha256": "654d4e241597f1d1e445eb8bc04658d84c3c26dc88360244b88c65de4a0a47ad",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_MILLENNIUM_AI_SCIENTIFIC_HUMILITY_VERSION_HISTORY.pdf",
+      "size_bytes": 38067,
+      "sha256": "89021900430e417304d117bfa78d59b240194791d1e85f1b5691cd1940cb56b3",
+      "type": ".pdf"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD.md",
+      "size_bytes": 34198,
+      "sha256": "c1f3ec53bcc8b0b5bc706a80ae64553ebfcb7110f43bc445bd0290ebb16a34ef",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD.md.sha256",
+      "size_bytes": 117,
+      "sha256": "5cf023e9b467d70b23ae4220fa4c4511c4cd361751c8b198c42f1fa3aedeb2cd",
+      "type": ".md.sha256"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD.pdf",
+      "size_bytes": 56856,
+      "sha256": "bac5beb074a78efa6d4945e9cded7ffb658e9ffd64e494747e007bbba9a5564f",
+      "type": ".pdf"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD_2.md",
+      "size_bytes": 34198,
+      "sha256": "c1f3ec53bcc8b0b5bc706a80ae64553ebfcb7110f43bc445bd0290ebb16a34ef",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD_2.pdf",
+      "size_bytes": 31881,
+      "sha256": "48740e7eb2959d8a3f6cd669060b1fc2e8067c093c9f1323acb2ed0b1ac8e987",
+      "type": ".pdf"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD_v0.1.0.md",
+      "size_bytes": 34198,
+      "sha256": "c1f3ec53bcc8b0b5bc706a80ae64553ebfcb7110f43bc445bd0290ebb16a34ef",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD_v0.1.0.pdf",
+      "size_bytes": 56856,
+      "sha256": "ead72867969ecf045d47a68970903b986fbf351c725c7260d1b4849fc3cb4fe0",
+      "type": ".pdf"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_PROVENANCE_AUTHORITY_DRIFT_OBSERVATION_PENDING.md",
+      "size_bytes": 5195,
+      "sha256": "e913dc00af8f1e81321b4a59c6e2205c7fcd0fac0346bd7ef3a8c588f4b5c85c",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_PROVENANCE_AUTHORITY_DRIFT_OBSERVATION_PENDING.pdf",
+      "size_bytes": 31847,
+      "sha256": "2b3561fc48bcac5d8bbbf40ca394f9060e50bb18f01ef1b0ec6d5c636bfe61b4",
+      "type": ".pdf"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_PROVENANCE_AUTHORITY_DRIFT_OBSERVATION_PENDING_2.md",
+      "size_bytes": 5195,
+      "sha256": "e913dc00af8f1e81321b4a59c6e2205c7fcd0fac0346bd7ef3a8c588f4b5c85c",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_PROVENANCE_AUTHORITY_DRIFT_OBSERVATION_PENDING_2.pdf",
+      "size_bytes": 31847,
+      "sha256": "366edc3e9700f38dcf1fbe164929cc5f6bf21554b8c5c006546e19a2816eaadd",
+      "type": ".pdf"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_PROVENANCE_MANIFEST.json",
+      "size_bytes": 1071,
+      "sha256": "6c2cf68c536e8f19c046f79d994d85e802b25679168fd5862ef70701ee38ef29",
+      "type": ".json"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_SHA256SUMS.txt",
+      "size_bytes": 906,
+      "sha256": "2c9f0a842ea57b407af1fe0295d3b254e02428b773a93294f0573414aac1c1cf",
+      "type": ".txt"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT.md",
+      "size_bytes": 6522,
+      "sha256": "51209a17c221c33af542904b274cae6914f76dd39262c2fa14bb4c7921c0e78e",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT.md.sha256",
+      "size_bytes": 119,
+      "sha256": "f88df1ae65f3576da528b053ed49c8f974500ead30ff29090c81905da0d44a78",
+      "type": ".md.sha256"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT.pdf",
+      "size_bytes": 32240,
+      "sha256": "c8d4c1dd8ee6aa6616759dde20feaa36803f53c4214ae32a5d7b338e85e6e4df",
+      "type": ".pdf"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT_2.md",
+      "size_bytes": 6522,
+      "sha256": "51209a17c221c33af542904b274cae6914f76dd39262c2fa14bb4c7921c0e78e",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT_2.pdf",
+      "size_bytes": 7270,
+      "sha256": "21f75ae3b7bfcfc4fd4820eee27682813caeeb9250b2ea89375b16561518024b",
+      "type": ".pdf"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT_v0.1.0.md",
+      "size_bytes": 6522,
+      "sha256": "51209a17c221c33af542904b274cae6914f76dd39262c2fa14bb4c7921c0e78e",
+      "type": ".md"
+    },
+    {
+      "source": "current_conversation",
+      "name": "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT_v0.1.0.pdf",
+      "size_bytes": 32240,
+      "sha256": "b4caaf6de79c8647f50473a42c950d6646c8941b9c9736945127ed013f4f9ebb",
+      "type": ".pdf"
+    },
+    {
+      "source": "current_conversation",
+      "name": "method_contact.png",
+      "size_bytes": 486802,
+      "sha256": "48d7122a52e449a296c518937e4d196fb4d44b3c17a9540f187fdcdbf4a43076",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "millennium_contact.png",
+      "size_bytes": 1188949,
+      "sha256": "20b486ba9f7b4f897d42ab531b9491eab9b6c9b38761770c99fc5a634e218ce3",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "notification_history.txt",
+      "size_bytes": 1039,
+      "sha256": "1f1eb55809ced9d8b7453ce8b117988cd1c34e1b48ffbae3f56050c765eb1f01",
+      "type": ".txt"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-1.png",
+      "size_bytes": 351003,
+      "sha256": "9d11e20693329f53117ecf7991e54e339d2066a10b323f6267ea5871e03209f8",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-1_2.png",
+      "size_bytes": 301599,
+      "sha256": "a0129a381e43eb17f97ef2794563d887cb92468e11a77576b32543cc85f47b55",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-1_3.png",
+      "size_bytes": 314401,
+      "sha256": "310225902908c610de28be690946a90df45718c7ca834b99fe5b92e38783c6cf",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-1_4.png",
+      "size_bytes": 291785,
+      "sha256": "09699ee6dbad64275731a320375eb7e50a65aa319aac6beae08e836c1eb4ddb5",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-1_5.png",
+      "size_bytes": 292476,
+      "sha256": "a04224be0d3f62ec8cc2450930f2477543c6bde4126b3fe69803602f272cbb78",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-2.png",
+      "size_bytes": 403435,
+      "sha256": "d2359db30aa2d06b5acfd3e1145b4b3bb4149b0d88285ef9d337bfcff6781f4b",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-2_2.png",
+      "size_bytes": 249764,
+      "sha256": "64121d1a5356746507f7ecb6bcb3edd40e44b7fd778f3d3b25656d31153b84c4",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-2_3.png",
+      "size_bytes": 279338,
+      "sha256": "a4b58d73338ac92f6d140121ff4d499f983da3ea30cce5c2527ca12ab48c45dc",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-2_4.png",
+      "size_bytes": 244231,
+      "sha256": "76c87b7288f4fbf4ce7125019e343e119c7ded18d516af9dc81b351864887c77",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-3.png",
+      "size_bytes": 448523,
+      "sha256": "f34d9ac0bf9101f5d0e9c21b9abd998116891e73bc1a0c6c3276401a5371fe78",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-3_2.png",
+      "size_bytes": 316774,
+      "sha256": "cac2efe6d0d0dbfacc71e450a69d1766ae1da8b4e3d2a9818703bcd4496fda7a",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-3_3.png",
+      "size_bytes": 235557,
+      "sha256": "ab866e6d57314596b0f9f24942e0e28091882bb49f7c5dc02dd4dbbee560db3f",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-3_4.png",
+      "size_bytes": 235557,
+      "sha256": "ab866e6d57314596b0f9f24942e0e28091882bb49f7c5dc02dd4dbbee560db3f",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-3_5.png",
+      "size_bytes": 56075,
+      "sha256": "50aaaa6080a4ed9ac17a592deb39cabd60d73a1cdc7d12312243058803710fa1",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-4.png",
+      "size_bytes": 285757,
+      "sha256": "b2ef1bfa42c8e32a1e30e9f47b5cff8d458ee4966ebf0d0b0a79e7d067f08076",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "page-4_2.png",
+      "size_bytes": 27916,
+      "sha256": "97503d148b708759b3496deae12526daad4d1b2990ae08cd7179b953712f2f5d",
+      "type": ".png"
+    },
+    {
+      "source": "current_conversation",
+      "name": "record_contact.png",
+      "size_bytes": 1957864,
+      "sha256": "e36beb98d0e5ea9ead3184d0fd50d85bad7da0e12bd8066b0a37c38444afab20",
+      "type": ".png"
+    },
+    {
+      "source": "recovered_library",
+      "name": "20260911_ANTHBLACK_SYSTEMS_REBUILD_MANUAL.md",
+      "size_bytes": 46969,
+      "sha256": "0510b860982ba673d0f6e1da9a46fe9f583b5fc39ba4788c9da7de6c45b70731",
+      "type": ".md"
+    },
+    {
+      "source": "recovered_library",
+      "name": "20260911_ANTHBLACK_SYSTEMS_REBUILD_MANUAL.pdf",
+      "size_bytes": 148873,
+      "sha256": "19f8c5cc8c38f196634cd854b393a4c118eb6ac3997317cebd5e3a24276c6aa7",
+      "type": ".pdf"
+    }
+  ],
+  "duplicate_byte_groups_current_conversation": [
+    {
+      "sha256": "1051d7d9fb269bc1bc84acadd667664369e91d3834f92da895e7202d3cebd393",
+      "files": [
+        "20260911_LOW_IDENTIFIABILITY_PROVENANCE_KEY_CONCEPT.md",
+        "20260911_LOW_IDENTIFIABILITY_PROVENANCE_KEY_CONCEPT_2.md"
+      ]
+    },
+    {
+      "sha256": "c1f3ec53bcc8b0b5bc706a80ae64553ebfcb7110f43bc445bd0290ebb16a34ef",
+      "files": [
+        "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD.md",
+        "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD_2.md",
+        "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD_v0.1.0.md"
+      ]
+    },
+    {
+      "sha256": "e913dc00af8f1e81321b4a59c6e2205c7fcd0fac0346bd7ef3a8c588f4b5c85c",
+      "files": [
+        "20260911_PROVENANCE_AUTHORITY_DRIFT_OBSERVATION_PENDING.md",
+        "20260911_PROVENANCE_AUTHORITY_DRIFT_OBSERVATION_PENDING_2.md"
+      ]
+    },
+    {
+      "sha256": "51209a17c221c33af542904b274cae6914f76dd39262c2fa14bb4c7921c0e78e",
+      "files": [
+        "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT.md",
+        "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT_2.md",
+        "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT_v0.1.0.md"
+      ]
+    },
+    {
+      "sha256": "ab866e6d57314596b0f9f24942e0e28091882bb49f7c5dc02dd4dbbee560db3f",
+      "files": [
+        "page-3_3.png",
+        "page-3_4.png"
+      ]
+    }
+  ],
+  "pdf_same_text_different_binary_groups": [
+    {
+      "text_sha256": "be73a0f4ff1df6d63d527267e68a5f88454c04140e0d3cc5775dc85e8b37c183",
+      "files": [
+        {
+          "name": "20260911_LOW_IDENTIFIABILITY_PROVENANCE_KEY_CONCEPT.pdf",
+          "bytes": 34961,
+          "binary_sha256": "852f0126afc95c02b22655f68c7b1a9fcc44823209aec0ec98c66c49dcf98063"
+        },
+        {
+          "name": "20260911_LOW_IDENTIFIABILITY_PROVENANCE_KEY_CONCEPT_2.pdf",
+          "bytes": 34961,
+          "binary_sha256": "1171d44933cb8b8c755990c2a8e73e52ffc810daf6e1a3b6c31f43af7b6534f3"
+        }
+      ]
+    },
+    {
+      "text_sha256": "334468511b568e2158e0da4c9e3789dbc053edc1bb7c6834b797d75e41bd3d97",
+      "files": [
+        {
+          "name": "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD.pdf",
+          "bytes": 56856,
+          "binary_sha256": "bac5beb074a78efa6d4945e9cded7ffb658e9ffd64e494747e007bbba9a5564f"
+        },
+        {
+          "name": "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD_2.pdf",
+          "bytes": 31881,
+          "binary_sha256": "48740e7eb2959d8a3f6cd669060b1fc2e8067c093c9f1323acb2ed0b1ac8e987"
+        },
+        {
+          "name": "20260911_MILLENNIUM_ARGUMENT_DEVELOPMENT_RECORD_v0.1.0.pdf",
+          "bytes": 56856,
+          "binary_sha256": "ead72867969ecf045d47a68970903b986fbf351c725c7260d1b4849fc3cb4fe0"
+        }
+      ]
+    },
+    {
+      "text_sha256": "a29cca83cd7d3b224ec6f7c76113b48467f1c4358e2f04a81861d6b3b337d652",
+      "files": [
+        {
+          "name": "20260911_PROVENANCE_AUTHORITY_DRIFT_OBSERVATION_PENDING.pdf",
+          "bytes": 31847,
+          "binary_sha256": "2b3561fc48bcac5d8bbbf40ca394f9060e50bb18f01ef1b0ec6d5c636bfe61b4"
+        },
+        {
+          "name": "20260911_PROVENANCE_AUTHORITY_DRIFT_OBSERVATION_PENDING_2.pdf",
+          "bytes": 31847,
+          "binary_sha256": "366edc3e9700f38dcf1fbe164929cc5f6bf21554b8c5c006546e19a2816eaadd"
+        }
+      ]
+    },
+    {
+      "text_sha256": "8dbd73792e50f502b8fb8910d8768dae04055dcb7f3108986344a2553f27fc7f",
+      "files": [
+        {
+          "name": "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT.pdf",
+          "bytes": 32240,
+          "binary_sha256": "c8d4c1dd8ee6aa6616759dde20feaa36803f53c4214ae32a5d7b338e85e6e4df"
+        },
+        {
+          "name": "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT_2.pdf",
+          "bytes": 7270,
+          "binary_sha256": "21f75ae3b7bfcfc4fd4820eee27682813caeeb9250b2ea89375b16561518024b"
+        },
+        {
+          "name": "20260911_WRITING_DEVELOPMENT_METHOD_CONCEPT_DRAFT_v0.1.0.pdf",
+          "bytes": 32240,
+          "binary_sha256": "b4caaf6de79c8647f50473a42c950d6646c8941b9c9736945127ed013f4f9ebb"
+        }
+      ]
+    }
+  ]
+}
